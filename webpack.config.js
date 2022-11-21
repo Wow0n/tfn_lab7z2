@@ -1,11 +1,12 @@
 let path = require("path");
 
 module.exports = {
-
+    mode: 'production',
     entry: "./src/index.js",
     output: {
         path: path.join(__dirname, "dist", "assets"),
         filename: "bundle.js",
+        publicPath: "/tfn_lab7z2/"
     },
     module: {
         rules: [
