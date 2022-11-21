@@ -4,9 +4,10 @@ module.exports = {
     mode: 'production',
     entry: "./src/index.js",
     output: {
-        path: path.join(__dirname, "dist", "assets"),
+        path: path.join(__dirname, "assets"),
         filename: "bundle.js",
-        publicPath: "/tfn_lab7z2/"
+        publicPath: "/tfn_lab7z2/",
+        library: 'webpackGhPages'
     },
     module: {
         rules: [
