@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Firefox",
+    "description": "Wieloplatformowa przeglądarka internetowa o otwartym kodzie źródłowym oparta na silniku Gecko, stworzona i rozwijana przez Mozilla Foundation, Mozilla Corporation oraz wolontariuszy. Rozpowszechniana jest na licencji MPL.",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/1024px-Firefox_logo%2C_2019.svg.png",
+    "img_alt" : "firefox_logo"
+  },
+  {
+    "name": "Chrome",
+    "description": "Darmowa przeglądarka internetowa rozwijana przez Google. Jej kod został napisany w oparciu o rozwiązania open source częściowo oparte na innych aplikacjach (m.in. WebKit i Mozilla)[3], z wyjątkiem wersji na iOS. Od wydania wersji 28 przeglądarka wykorzystuje silnik Blink. Przeglądarkę tę charakteryzuje oszczędność miejsca, jakie zajmuje interfejs.",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Google_Chrome_icon_%28February_2022%29.svg/1024px-Google_Chrome_icon_%28February_2022%29.svg.png",
+    "img_alt" : "chrome_logo"
+  },
+  {
+    "name": "Microsoft Edge",
+    "description": "Przeglądarka internetowa firmy Microsoft. Oficjalnie zaprezentowana 21 stycznia 2015 roku, a pierwszy raz wydana w wersji testowej 30 marca 2015 roku. Dostępna dla systemu Windows 10, którego premiera odbyła się 29 lipca 2015 roku. Microsoft Edge jest domyślną przeglądarką nowego systemu Microsoftu, zastąpiła Internet Explorer 11 i obsługuje komputery PC, tablety, konsole Xbox One oraz smartfony.",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Microsoft_Edge_logo_%282019%29.svg/1024px-Microsoft_Edge_logo_%282019%29.svg.png",
+    "img_alt" : "edge_logo"
+  }
+]
